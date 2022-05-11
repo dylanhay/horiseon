@@ -1,6 +1,6 @@
 # Horiseon Landing Page Revised Code
 
-Deployed Link: 
+Deployed Link: https://dylanhay.github.io/horiseon/
 
 ![Screenshot](./01-html-css-git-homework-demo.png "Mock Up")
 
